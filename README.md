@@ -40,11 +40,13 @@ PSeInt
 
 ## Ejecución del Programa
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dcbf045d-b3d0-4e7e-9ce0-b241927b3f63" width="600">
+ <img width="1904" height="1007" alt="Captura de pantalla 2026-02-24 133813" src="https://github.com/user-attachments/assets/06cb6f97-ec54-407d-ad48-eb6e3e5ceb69" width="600"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f15b6586-4d3c-486a-9d8f-920ed4107e92" width="600">
+<img width="1915" height="1005" alt="Captura de pantalla 2026-02-24 133919" src="https://github.com/user-attachments/assets/6f4efbc9-537e-49a3-b7eb-304ecfd91b31" width="600"/>
+
 </p>
 
 
